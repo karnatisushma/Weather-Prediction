@@ -14,8 +14,10 @@ Python 3.x installed on your machine.
 An API key from OpenWeatherMap to access their weather data.
 
 Run the script with your API key and desired city name:
+
 python weather.py --api-key YOUR_API_KEY --city "City Name"
 Replace YOUR_API_KEY with your actual OpenWeatherMap API key and "City Name" with the name of the city you want to get the weather forecast for.
+
 Enter the city name to know weather in the specific city and it will run and give you output like this:
 -------------------------------------------------------------
 Weather Stats for - Hyderabad  || 06 Sep 2023 | 06:20:24 PM
